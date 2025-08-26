@@ -5,6 +5,12 @@
 
 body {
   background-color: #020631;
+  color: white;
+}
+
+hr{
+  margin: auto;
+  margin-bottom: 0.8em;
 }
 
 .app {
@@ -84,4 +90,7 @@ h2 {
   font-weight: 700;
   font-style: normal;
   color: grey;
+}
+.todo{
+  margin-bottom: 1.5em;
 }
